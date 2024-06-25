@@ -1,5 +1,5 @@
 //
-// Created by 宁程 on 2024/6/23.
+// Created by N on 2024/6/23.
 //
 
 #include <graphics.h>
