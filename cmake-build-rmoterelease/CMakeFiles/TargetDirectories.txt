@@ -1,0 +1,3 @@
+/home/agan/tmp/tmp.H4zNjRP4FN/cmake-build-rmoterelease/CMakeFiles/wuziqi.dir
+/home/agan/tmp/tmp.H4zNjRP4FN/cmake-build-rmoterelease/CMakeFiles/edit_cache.dir
+/home/agan/tmp/tmp.H4zNjRP4FN/cmake-build-rmoterelease/CMakeFiles/rebuild_cache.dir

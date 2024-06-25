@@ -1,0 +1,4 @@
+"E:\App\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/App/CLion 2024.1.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S E:\learn\code\C++\wuziqi -B E:\learn\code\C++\wuziqi\cmake-build-debug
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: E:/learn/code/C++/wuziqi/cmake-build-debug

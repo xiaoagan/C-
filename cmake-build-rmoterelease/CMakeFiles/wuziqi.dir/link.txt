@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/wuziqi.dir/main.cpp.o CMakeFiles/wuziqi.dir/Man.cpp.o CMakeFiles/wuziqi.dir/AI.cpp.o CMakeFiles/wuziqi.dir/Chess.cpp.o CMakeFiles/wuziqi.dir/ChessGame.cpp.o -o wuziqi
